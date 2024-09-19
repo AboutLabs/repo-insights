@@ -19,7 +19,7 @@ Follow these steps to set up the GitHub Repository Insight Generator on your loc
 
 ### Prerequisites
 
-- Python 3.7 or higher
+- Python 3.11 or higher
 - pip (Python package installer)
 
 ### Steps
